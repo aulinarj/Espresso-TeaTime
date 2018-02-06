@@ -23,4 +23,8 @@ dependencies {
     compile 'com.android.support:design:25.0.1'
     compile 'com.android.support:support-annotations:25.0.1'
     compile 'com.google.android.gms:play-services-appindexing:9.8.0'
+
+    androidTestCompile 'com.android.support:support-annotations:25.0.1'
+    androidTestCompile 'com.android.support.test.espresso:espresso-core:2.2.2'
+
 }
